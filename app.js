@@ -1,3 +1,3 @@
-export default message => {
+module.exports = message => {
   return "hello " + message;
 };
