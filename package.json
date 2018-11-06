@@ -1,0 +1,13 @@
+{
+  "name": "@wtetsu/hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/wtetsu/wtetsu-hello",
+  "author": "wtetsu",
+  "license": "MIT",
+  "private": false
+}
